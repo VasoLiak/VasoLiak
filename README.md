@@ -5,11 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vasoliak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&bg_color=90,1B5E20,4CAF50&title_color=fff&text_color=fff" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasoliak&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=90,1B5E20,4CAF50&title_color=fff&text_color=fff" height="150" alt="languages graph" />
-
 </div>
-
-
-
 
 
 ###
@@ -22,8 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="sql logo" style="margin-left: 10px;" />
+
+
+
 </div>
 
 ###
