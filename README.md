@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vasiliki Liakou and I'm a junior software developer, from Greece</h2>
+<h2 align="left">Hi 👋! My name is Vasiliki and I'm a junior software developer, from Greece!</h2>
 
 ###
 
