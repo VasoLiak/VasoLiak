@@ -5,11 +5,16 @@ I’m a junior engineer with interests in software development, data, and mobile
 I like writing code, exploring new technologies, and turning ideas into working solutions.
 </p>
 
-###
+### Projects & Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasoliak&show_icons=true&theme=dracula&cache_seconds=86400" height="150" alt="github stats" />
-</div>
+```mermaid
+pie title Languages used across my projects
+    "Java / Android" : 50
+    "Python" : 25
+    "HTML / CSS / JavaScript" : 25
+```
+
+
 
 ###
 
