@@ -22,7 +22,7 @@ I like writing code, exploring new technologies, and turning ideas into working 
 ###
 
 <div align="left">
-  <a href="mailto:vasilikiliak@gmail.com">
+  <a href="mailto:liakouvasiliki02@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/vasiliki-liakou-20924a307/">
