@@ -5,17 +5,6 @@ I’m a junior engineer with interests in software development, data, and mobile
 I like writing code, exploring new technologies, and turning ideas into working solutions.
 </p>
 
-### Projects & Languages
-
-```mermaid
-pie title Languages used across my projects
-    "Java / Android" : 50
-    "Python" : 25
-    "HTML / CSS / JavaScript" : 25
-```
-
-
-
 ###
 
 <div align="center">
