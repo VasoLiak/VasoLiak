@@ -2,7 +2,7 @@
 
 <p align="left">
 I’m a junior engineer with interests in software development, data, and mobile applications.  
-I like writing code, exploring new technologies, and turning ideas into working solutions.
+I like writing code, exploring new technologies, and turning ideas into working solutions!
 </p>
 
 ###
